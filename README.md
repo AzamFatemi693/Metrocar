@@ -1,6 +1,9 @@
 # Metrocar Funnel Analysis Project
 
-Welcome to the Metrocar Funnel Analysis Project repository! In this project, we delve into enhancing user engagement and improving conversion rates for Metrocar, a ride-sharing application similar to industry giants Uber and Lyft. The following sections provide insights, recommendations, and strategies based on a comprehensive analysis of Metrocar's user journey.![image](Metrocar.png)
+Welcome to the Metrocar Funnel Analysis Project repository! In this project, we delve into enhancing user engagement and improving conversion rates for Metrocar, a ride-sharing application similar to industry giants Uber and Lyft. The following sections provide insights, recommendations, and strategies based on a comprehensive analysis of Metrocar's user journey.
+
+
+![image](Metrocar.png)
 
 
 ## Project Background
